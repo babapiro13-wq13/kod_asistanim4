@@ -1,5 +1,5 @@
 # kod_asistanim4
-  Proje Yazarı: Mehmet ERDIK
+  Proje Yazarı: Mehmet Emir ERDIK
 # Projenın Adı: Kod-Asistan v0.1
 ## Projenın Amacı: Kullanıcılara günlük işlerinde (hesaplama, selamlama vb.) yardımcı
 olacak bir dijital asistan tasarlamak
